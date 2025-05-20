@@ -1,7 +1,7 @@
-8 Dot products and duality
+# Dot products and duality
 
-[[https://youtu.be/LyGKycYT2v0?si=tc0P-RCh4vu6SNEk]]
 
+[Dot product video link](https://youtu.be/LyGKycYT2v0?si=tc0P-RCh4vu6SNEk)
 ### Basic Definition
 
 - The **dot product** of two vectors involves:
@@ -15,7 +15,8 @@ Mathematically:
 $$\vec{v} \cdot \vec{w} = v_1 w_1 + v_2 w_2 + \cdots + v_n w_n$$
 
 ### Geometric Interpretation
-![[projecting_one_onto_another.png]]
+![projecting_one_onto_another.png](images/projecting_one_onto_another.png)
+
 - For vectors $\vec{v}$ and $\vec{w}$:
 
 	- Imagine projecting $\vec{w}$ onto a line through the origin and the tip of $\vec{v}$
@@ -79,7 +80,7 @@ $$
 
 - $\vec{u}$ is a unit vector 
 
-![[unit_vector_projection.png]]
+![unit_vector_projection.png](images/unit_vector_projection.png)
 - Projecting onto a **diagonal line**:
 
     - The **y-coordinate** of $\vec{u}$ gives where $\vec{j}$ lands
