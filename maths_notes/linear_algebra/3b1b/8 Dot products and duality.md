@@ -15,7 +15,7 @@ Mathematically:
 $$\vec{v} \cdot \vec{w} = v_1 w_1 + v_2 w_2 + \cdots + v_n w_n$$
 
 ### Geometric Interpretation
-![[Screenshot 2025-05-20 at 22.04.06.png]]
+![[projecting_one_onto_another.png]]
 - For vectors $\vec{v}$ and $\vec{w}$:
 
 	- Imagine projecting $\vec{w}$ onto a line through the origin and the tip of $\vec{v}$
@@ -79,7 +79,7 @@ $$
 
 - $\vec{u}$ is a unit vector 
 
-![[Screenshot 2025-05-20 at 22.06.00.png]]
+![[unit_vector_projection.png]]
 - Projecting onto a **diagonal line**:
 
     - The **y-coordinate** of $\vec{u}$ gives where $\vec{j}$ lands
